@@ -1,10 +1,10 @@
 
 
 
-# Furniture Manufacturing and OrderingSystem
+# Furniture Manufacturing and Ordering System
 
-In this homework,you are expected toimplementa“FurnitureManufacturingandOrdering
-System” application using Java. This homework willcover the topics given below;
+In this homework,you are expected to implement a “Furniture Manufacturing and Ordering
+System” application using Java. This homework will cover the topics given below;
 
 1. Strings, Arrays, Generics
 2. Queue ADT (Abstract Data Type)
